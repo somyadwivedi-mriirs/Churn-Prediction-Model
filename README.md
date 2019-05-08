@@ -12,4 +12,4 @@ Voting,
 Correlation,
 Chi Square Test,
 Sampling, 
-Ensemble, 
+Ensemble
